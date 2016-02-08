@@ -1,6 +1,6 @@
 {
   "name": "jsxidom",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Transform JSX to incremental DOM with Babel",
   "dependencies": {
     "incremental-dom": "*"
