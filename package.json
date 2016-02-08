@@ -1,6 +1,6 @@
 {
   "name": "jsxidom",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Transform JSX to incremental DOM with Babel",
   "dependencies": {
     "incremental-dom": "*"
@@ -9,7 +9,6 @@
   "keywords": [],
   "license": "MIT",
   "main": "index.js",
-  "readme": "README.md",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/eliot-akira/jsxidom.git"

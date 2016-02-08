@@ -34,11 +34,7 @@ const app = document.body.querySelector('#app')
 let i = 0
 
 function refresh() {
-  app.render(
-    <div class="counter">
-      { i++ }
-    </div>    
-  )
+  app.render(<div class="counter">{ i++ }</div>)
 }
 
 refresh()
